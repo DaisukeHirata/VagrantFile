@@ -35,3 +35,11 @@ $ ssh cent65
 $ su -
 Password: vagrant
 ```
+
+# for cent65
+
+* install development tools
+
+```
+# yum -y groupinstall "Development Tools"
+```
